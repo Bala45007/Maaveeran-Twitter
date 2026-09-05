@@ -145,7 +145,7 @@ export class MenuScene extends Phaser.Scene {
       '',
       'Built with React, Vite, and Phaser 3',
       'All art & sound generated procedurally - no external assets',
-      'A portfolio project'
+      'A portfolio project - Random Thoughts of Arun Creative Studios'
     ]);
   }
 
